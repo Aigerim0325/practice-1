@@ -6,11 +6,11 @@ print(float(x))
 b = 'Hello!'
 print(type(b))
 
-x = "The wather"
+x = "The weather"
 y = "is good"
 z = "today"
 print(x, y, z)
-print(x + y + z)
+print(x + " " + y + " " + z)
 
 grade  = input() 
 print(f"He scored {grade} on the exam") 
